@@ -26,8 +26,11 @@ https://www.youtube.com/watch?v=xoA8aiGrkbw&list=PLy5hjmUzdc0lo7EJM0UDMMN35nWqb3
 https://kivy.org/doc/stable/guide/packaging-ios.html
 
 
-Update for 11/3/21:
+### Update for 11/3/21:
 Took a look at this sample pong application: https://kivy.org/doc/stable/tutorials/pong.html
 Learned that some of this could be tested and run in repl.it
 Using kivy has a similar object-oriented structure
 You can run and view the UI using this as well
+
+### Resources To Learn Kivy:
+https://realpython.com/mobile-app-kivy-python/
