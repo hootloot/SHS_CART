@@ -12,11 +12,14 @@ class MyGrid(GridLayout):
         self.cols = 1
 
         self.inside = GridLayout()
+        #User Interface has a Grid Layout
         self.inside.cols = 2
+        #The Grid Layout has 2 collums on each side
 
         self.inside.add_widget(Label(text="First Name: "))
         self.name = TextInput(multiline=False)
         self.inside.add_widget(self.name)
+        #First Input Box
 
         self.inside.add_widget(Label(text="Last Name: "))
         self.lastName = TextInput(multiline=False)
@@ -33,15 +36,19 @@ class MyGrid(GridLayout):
         self.add_widget(self.submit)
 
     def pressed(self, instance):
+        #When the submit button is pressed, then:
         name = self.name.text
         last = self.lastName.text
         email = self.email.text
-
+        
+        #^This happens
         print("Name:", name, "Last Name:", last, "Email:", email)
+        #Prints the input
         self.name.text = ""
         self.lastName.text = ""
         self.email.text = ""
 
+      
 class MyApp(App):
     def build(self):
         return MyGrid()
