@@ -36,4 +36,4 @@ You can run and view the UI using this as well
 https://realpython.com/mobile-app-kivy-python/
 
 ### Repl.it Sample Project:
-https://replit.com/join/duemifxkkg-ruthvikpenubart
+https://replit.com/join/ygneqwikxd-ruthvik1214
