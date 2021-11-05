@@ -34,3 +34,6 @@ You can run and view the UI using this as well
 
 ### Resources To Learn Kivy:
 https://realpython.com/mobile-app-kivy-python/
+
+### Repl.it Sample Project:
+https://replit.com/join/duemifxkkg-ruthvikpenubart
