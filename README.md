@@ -17,7 +17,9 @@
 This will download this project into your downloads folder. 
 > After downloading, open in Visual Studio Code
 
-4. Open ```start.py```
+4. Open ```start.py``` and read the code/comments
+
+> Read the comments for futher instructions and remember to ask for help when needed.
 
 ### Resources To Learn Kivy:
 https://realpython.com/mobile-app-kivy-python/
