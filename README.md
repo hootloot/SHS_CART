@@ -23,7 +23,18 @@ This will download this project into your downloads folder.
 
 > Read the comments for futher instructions and remember to ask for help when needed.
 
+### Terms To Know:
+
+- *User Interface* : The means by which the user and a computer system interact, in particular the use of input devices and software. 
+
+- *Front End* : The graphical user interface, (basically the User Interface)
+
+
+- *Back End* : The part of a application that is not directly accessed by the uder typically responsible for storing and manipulating data. 
+
 ### More Resources To Learn Kivy (If needed):
 https://realpython.com/mobile-app-kivy-python/
+
+
 
 
