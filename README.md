@@ -4,15 +4,15 @@
 ### Instructions:
 Open the Terminal in Lanchpad.
 
-pip install kivy
+```pip install kivy```
 
 If there are any issues notify us. If it asks you to update pip ignore it. 
 
-cd Downloads
+```cd Downloads```
 
 You will enter the folder: Downloads
 
-git clone ()
+```git clone https://github.com/hootloot/SHS_CART.git```
 
 This will download this project into your downloads folder. 
 
