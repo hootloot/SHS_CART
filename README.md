@@ -22,6 +22,7 @@ This will download this project into your downloads folder.
 4. Open ```start.py``` and read the code/comments
 
 > Read the comments for futher instructions and remember to ask for help when needed.
+> Read the terms you need to know, look back at them for refrence
 
 ### Terms To Know:
 
