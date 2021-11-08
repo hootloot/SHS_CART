@@ -1,5 +1,4 @@
-# Learning Kivy
-### For SHS Coffee Cart Development
+# Learning Kivy For SHS Coffee Cart Project
 
 ### Instructions For Instaling:
 1. Open the Terminal in Lanchpad.
