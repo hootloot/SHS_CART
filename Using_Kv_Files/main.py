@@ -1,3 +1,7 @@
+#This way of using the Kivy module is different
+#It uses type .kv file for the user interface
+
+
 import kivy
 from kivy.app import App
 from kivy.uix.label import Label
