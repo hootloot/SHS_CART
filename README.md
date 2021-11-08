@@ -6,9 +6,12 @@
 
 ```pip install kivy```
 
-2. If there are any issues notify us. If it asks you to update pip ignore it. 
+> If there are any issues notify us. If it asks you to update pip ignore it. 
+
+2. Within the terminal write:
 
 ```cd Downloads```
+> Then enter
 
 3. You will enter the folder: Downloads
 
