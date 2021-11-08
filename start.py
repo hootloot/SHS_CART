@@ -1,3 +1,12 @@
+#Read commments for information and instructions
+
+#First, run this file
+#Try using the application, write text in the input boxes
+#Then look at the terminal, the information you input after you press "submit" should be outputted (If it doesn't ask for help). 
+#Now, look at the rest of the comments to see how the program works. 
+
+
+#After installing kivy, you can now import these modules. 
 import kivy
 from kivy.app import App
 from kivy.uix.label import Label
@@ -5,7 +14,8 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
 from kivy.uix.button import Button
 
-
+#This section of code is for the user interface, basically how it looks like. 
+#It has a grid like layout
 class MyGrid(GridLayout):
     def __init__(self, **kwargs):
         super(MyGrid, self).__init__(**kwargs)
@@ -33,10 +43,14 @@ class MyGrid(GridLayout):
 
         self.submit = Button(text="Submit", font_size=40)
         self.submit.bind(on_press=self.pressed)
+        #This is using the function in the next section for input
         self.add_widget(self.submit)
 
+    #This section is different, it is the "backend" of this application. 
+    #This creates the actual action or function of the application, without this just the user interface is shown, you can't input anything. 
     def pressed(self, instance):
-        #When the submit button is pressed, then:
+        #When button is pressed:
+        
         name = self.name.text
         last = self.lastName.text
         email = self.email.text
@@ -51,8 +65,10 @@ class MyGrid(GridLayout):
       
 class MyApp(App):
     def build(self):
+        #This is building the display, always include this
         return MyGrid()
 
-
+#Always include this too
 if __name__ == "__main__":
     MyApp().run()
+    
