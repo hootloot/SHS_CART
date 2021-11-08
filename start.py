@@ -72,3 +72,11 @@ class MyApp(App):
 if __name__ == "__main__":
     MyApp().run()
     
+    
+#Instructions:
+#Try changing part of the code, see what values you can change. 
+#Example, in section one you change the label of the input boxes
+    
+
+    
+    
