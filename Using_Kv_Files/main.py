@@ -38,7 +38,10 @@ if __name__ == "__main__":
     
     
 #Try running this file, try using it. 
-#Then try changing parts in the btn() function, see what else you can output. Using things you have already learnt in python, print statements, loops, if statements
+#Then try changing parts in the btn() function, see what else you can output. 
+#Using things you have already learnt in python, print statements, loops, if statements
+
+#After seeing what you can change, open the main.kv file within this folder.
 
 
 
