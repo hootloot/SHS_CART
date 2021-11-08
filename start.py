@@ -14,7 +14,7 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
 from kivy.uix.button import Button
 
-#This section of code is for the user interface, basically how it looks like. 
+#This section of code is for the user interface, the front end.
 #It has a grid like layout
 class MyGrid(GridLayout):
     def __init__(self, **kwargs):
@@ -47,7 +47,7 @@ class MyGrid(GridLayout):
         self.add_widget(self.submit)
 
     #This section is different, it is the "backend" of this application. 
-    #This creates the actual action or function of the application, without this just the user interface is shown, you can't input anything. 
+    #The data was the inputed by you, and is outputed after pressing the "submit" button
     def pressed(self, instance):
         #When button is pressed:
         
