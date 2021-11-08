@@ -76,6 +76,8 @@ if __name__ == "__main__":
 #Instructions:
 #Try changing part of the code, see what values you can change. 
 #Example, in section one you change the label of the input boxes
+
+#Open the "Using_Kv_Files" folder, open the first file
     
 
     
