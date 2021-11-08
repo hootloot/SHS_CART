@@ -30,7 +30,7 @@ This will download this project into your downloads folder.
 - *Front End* : The graphical user interface, (basically the User Interface)
 
 
-- *Back End* : The part of a application that is not directly accessed by the uder typically responsible for storing and manipulating data. 
+- *Back End* : The part of a application that is not directly accessed by the user typically responsible for storing and manipulating data. 
 
 ### More Resources To Learn Kivy (If needed):
 https://realpython.com/mobile-app-kivy-python/
