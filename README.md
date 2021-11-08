@@ -36,6 +36,9 @@ This will download this project into your downloads folder.
 ### More Resources To Learn Kivy (If needed):
 https://realpython.com/mobile-app-kivy-python/
 
+### Kivy Wigets 
+https://kivy.org/doc/stable/guide/widgets.html
+
 
 
 
