@@ -21,7 +21,7 @@ This will download this project into your downloads folder.
 
 > Read the comments for futher instructions and remember to ask for help when needed.
 
-### Resources To Learn Kivy:
+### More Resources To Learn Kivy (If needed):
 https://realpython.com/mobile-app-kivy-python/
 
 
