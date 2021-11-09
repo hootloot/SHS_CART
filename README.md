@@ -1,5 +1,7 @@
 # Learning Kivy For SHS Coffee Cart Project
 
+![alt text](https://schools.shrewsburyma.gov/files/images/logo.png)
+
 ### Instructions For Instaling:
 1. Open the Terminal in Lanchpad.
 
