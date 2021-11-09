@@ -1,4 +1,4 @@
-# Making Your Own Kivy Application
+# Kivy Application Changes
 
 ### Here create your own Kivy Application:
 
