@@ -33,7 +33,7 @@ This will download this project into your downloads folder.
 
 - *Back End* : The part of a application that is not directly accessed by the user typically responsible for storing and manipulating data. 
 
-### More Resources To Learn Kivy (If needed):
+### If Confused, look at this:
 https://realpython.com/mobile-app-kivy-python/
 
 ### Kivy Wigets 
