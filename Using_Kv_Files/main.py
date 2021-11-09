@@ -14,7 +14,7 @@ from kivy.uix.button import Button
 from kivy.uix.widget import Widget
 from kivy.properties import ObjectProperty
 
-#This is the front end part of the application, however it uses the .kv file in this folder
+#This is the front end part of the application, however it uses the .kv file in this folder. Look at the .kv file if you want.
 class MyGrid(Widget):
     name = ObjectProperty(None)
     email = ObjectProperty(None)
@@ -41,7 +41,7 @@ if __name__ == "__main__":
 #Then try changing parts in the btn() function, see what else you can output. 
 #Using things you have already learnt in python, print statements, loops, if statements
 
-#After seeing what you can change, open the main.kv file within this folder.
+
 
 
 
